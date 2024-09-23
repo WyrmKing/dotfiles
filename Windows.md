@@ -1,5 +1,5 @@
 
-# Dracula theme for terminal (https://draculatheme.com/windows-terminal)
+## Dracula theme for terminal (https://draculatheme.com/windows-terminal)
 Add into settings.json 
 ```
 "schemes": [
